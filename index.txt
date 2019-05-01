@@ -1,1 +1,2 @@
-HTis is first entry
+This is first entry.
+File edited on GitHub.
